@@ -1,4 +1,4 @@
-****# Sistema de Integração de APIs de Mídia Social (Padrão Adapter)
+# Sistema de Integração de APIs de Mídia Social (Padrão Adapter)
 
 Este projeto implementa um sistema unificado de gerenciamento de redes sociais utilizando os padrões de design Adapter, Factory Method e Strategy em Java.
 
